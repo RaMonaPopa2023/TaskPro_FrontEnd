@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ramonapopa2023.github.io/TaskPro_FrontEnd-main",
+  "homepage": "https://ramonapopa2023.github.io/TaskPro_FrontEnd",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@mui/material": "^5.13.6",
